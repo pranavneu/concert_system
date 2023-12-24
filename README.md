@@ -49,6 +49,9 @@ This project allowed for a deeper understanding of database design techniques th
 
 ### Contributors:
 [Pranav Kanth Anbarasan](https://www.linkedin.com/in/pranav-kanth-anbarasan-b5b93818a/)
+Hasan Khwaja 
+Sreeja Vepa
+
 
 
 
