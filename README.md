@@ -16,7 +16,7 @@ In addition to this, the foreign keys in each table also needed to manually be i
 Since the data was generated at our discretion, there was no need for specific cleaning or preprocessing as the data was manually checked and created at each iteration.
 
 ### Application Description
-The graphical user interface (GUI) within the application has been made using the Tkinter library, a robust Python framework dedicated to facilitating GUI development.
+The graphical user interface (GUI) within the application has been made using the Tkinter library, a robust Python framework dedicated to facilitating GUI development.\
 **Libraries Used**
 1. tkinter
 2. MySqlConnector
