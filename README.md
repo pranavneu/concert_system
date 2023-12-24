@@ -31,7 +31,21 @@ This project allowed for a deeper understanding of database design techniques th
 1. **Download the database dump file:**
    - Download the music_reservation_dump.sql file.
 2. **Database Setup:**
-
+   - Import the  music_reservation_dump.sql file into your database.
+   - This file contains both the Data Definition Language (DDL) for table creation and the Data Manipulaiton Language (DML) for data insertion.
+3. **Update Data (Optional):**
+   - If updates are needed, use the project_INSERT.py python source file.
+   - This file with the help of the faker library has been used to generate the data.
+4. **Frontend Setup:**
+   - Donwload the project_SOURCE_CODE file for the frontend.
+   -  Ensure that all libraries mentioned in the application description are installed.
+5. **Configuration:**
+   - In the project_SOURCE_CODE file, locate and replace the placeholders for 'user', 'password', and 'database' within the approprite functions. Ensure that these fields correspond to your MySQL server credentials.
+6. ** Running the application:**
+   - Once everything is done, execute the project_SOURCE_CODE file.
+   - The Tkinter window will appear, connected to the backend server.
+7. **Troubleshooting:**
+   - If you encounter any issues during installation, feel free to reach out for assitance at pranavkantha@gmail.com
 
 
 
