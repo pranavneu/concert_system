@@ -27,6 +27,8 @@ The graphical user interface (GUI) within the application has been made using th
 Conclusion/Future Directions
 This project allowed for a deeper understanding of database design techniques through effective implementation. The various tasks such as data normalization in 3NF, implementation of the Faker Library in python, using mysql-connector to connect Python to the database, and working with triggers, stored procedures, views, and more all helped solidify the usefulness of MySQL. In terms of future directions, there are various ways to expand and improve this project. One simpler way could be to connect the reviews and concert table using a foreign key. In this case, user reviews could be connected to a specific concert. As the project stands now, users are unable to see the specific concerts each review references and instead see a general review of all concerts available. This functionality would improve the user experience and allow them to make better decisions when purchasing tickets. This would also be needed due to how the opinion on one concert may be different from others.
 
+### Installation
+
 
 
 
