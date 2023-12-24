@@ -41,7 +41,7 @@ This project allowed for a deeper understanding of database design techniques th
    -  Ensure that all libraries mentioned in the application description are installed.
 5. **Configuration:**
    - In the project_SOURCE_CODE file, locate and replace the placeholders for 'user', 'password', and 'database' within the approprite functions. Ensure that these fields correspond to your MySQL server credentials.
-6. ** Running the application:**
+6. **Running the application:**
    - Once everything is done, execute the project_SOURCE_CODE file.
    - The Tkinter window will appear, connected to the backend server.
 7. **Troubleshooting:**
