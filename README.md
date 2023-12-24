@@ -30,6 +30,7 @@ This project allowed for a deeper understanding of database design techniques th
 ### Installation steps
 1. **Download the database dump file:**
    - Download the music_reservation_dump.sql file.
+
 2. ** Database setup:**
    - 
 
