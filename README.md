@@ -47,5 +47,7 @@ This project allowed for a deeper understanding of database design techniques th
 7. **Troubleshooting:**
    - If you encounter any issues during installation, feel free to reach out for assitance at pranavkantha@gmail.com
 
+### Contributors:
+
 
 
