@@ -17,6 +17,7 @@ Since the data was generated at our discretion, there was no need for specific c
 
 ### Application Description
 The graphical user interface (GUI) within the application has been made using the Tkinter library, a robust Python framework dedicated to facilitating GUI development.\
+
 **Libraries Used**
 1. tkinter
 2. MySqlConnector
