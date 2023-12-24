@@ -15,7 +15,13 @@ There are several key differences that can be observed across the different data
 In addition to this, the foreign keys in each table also needed to manually be inserted into each table. This was done due to a technical limitation of the faker library, where, when trying to create fake foreign keys, the foreign key values would be skipped during some iterations, leav-ing null values in their place. When trying to solve this, one solution would have been to run the loop multiple times to give the program the chance to fill in the missing values. This solution, however, did not prove to be reliable. This conclusion was made with the understanding that there was no guarantee the null values would be filled in after running the program any number of times.
 Since the data was generated at our discretion, there was no need for specific cleaning or preprocessing as the data was manually checked and created at each iteration.
 
-### Data Collection
+### Application Description
+The graphical user interface (GUI) within the applica-tion has been made using the Tkinter library, a robust Py-thon framework dedicated to facilitating GUI development.
+**Libraries Used**
+1. tkinter
+2. MySqlConnector
+3. datetime
+4. random
 
 
 
