@@ -48,11 +48,9 @@ This project allowed for a deeper understanding of database design techniques th
    - If you encounter any issues during installation, feel free to reach out for assitance at pranavkantha@gmail.com
 
 ### Contributors:
-[Pranav Kanth Anbarasan](https://www.linkedin.com/in/pranav-kanth-anbarasan-b5b93818a/)
-
-Hasan Khwaja 
-
-Sreeja Vepa
+[Pranav Kanth Anbarasan](https://www.linkedin.com/in/pranav-kanth-anbarasan-b5b93818a/)  
+Hasan Khwaja  
+Sreeja Vepa  
 
 
 
